@@ -1,2 +1,2 @@
-# PyTorch
-An example of using PyTorch
+# Description
+The task was to train a model to classify images from the USPS dataset. This dataset consists of images of handwritten numbers representing multiclass classification tasks. The goal was to create a model that can effectively recognize numbers and classify them into one of 10 categories. Normalization and augmentation were applied. The model used MSELoss and was trained on the data using the RMSProp optimizer.
